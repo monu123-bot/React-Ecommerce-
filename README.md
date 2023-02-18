@@ -8,6 +8,21 @@
 3: run the project using   `npm start`
    
    ------------ 
+   <h5>What i have learned from this project ->  </h5>
+   <ul>
+   <li>
+   Context Api
+   </li>
+   <li>
+   Use Reducer Hook
+   </li>
+   <li>
+   Use State Hook
+   </li>
+      <li>
+   React Work Flow
+   </li>
+</ul>
    
 https://creative-haupia-6b9a18.netlify.app/
 

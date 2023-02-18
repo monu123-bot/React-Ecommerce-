@@ -5,11 +5,14 @@ const CartContext = createContext();
 export const CartContextProvider = ({ children }) => {
   const getLocalcartData = ()=>{
     let newD = localStorage.getItem("cartData")
-    if (newD===[])
-    {return []}
-    else{
-      return JSON.parse(newD)
-    }
+    // if (newD===[])
+    // {return []}
+    // else{
+    //   return JSON.parse(newD)
+    // }
+    const parseData =  JSON.parse(newD)
+    if(!Array.isArray(parseData)) return []
+    return parseData
   }
     const initialState ={
      cart:getLocalcartData(),

@@ -14,11 +14,9 @@
    Context Api
    </li>
    <li>
-   Use Reducer Hook
+   UseReducer Hook,  UseState Hook, UseState Hook
    </li>
-   <li>
-   Use State Hook
-   </li>
+   
       <li>
    React Work Flow
    </li>

@@ -27,6 +27,11 @@ https://creative-haupia-6b9a18.netlify.app/
 
 
 
+<h3>Component Diagram</h3>
+<a href="https://docs.google.com/document/d/1dv728-NFoiVUVUyyDDlR_dvYV7lsBuaC/edit?usp=sharing&ouid=104030101885237780072&rtpof=true&sd=true">link</a>
+
+
+
 
 
 
